@@ -1,0 +1,38 @@
+@media(max-width: 1000px){
+	#contents {
+	width: 75%;
+	margin: 0;
+	padding-left:0;
+	padding-right: 30px;
+	float: left;
+	}
+	aside {
+	width: 15%;
+	margin: 0;
+	margin-left: 40px;
+	padding-left: 40px;
+	float: right;
+	color: black;
+	font-weight: bold;
+	}
+}
+
+@media(max-width:670px){
+	#contents {
+		width: 100%;
+		float:left;
+		background-color: salmon;
+	}
+	article {
+		width: 100%;
+	}
+	profile1{
+		width: 100%;
+	}
+	aside{
+		float: right;
+		width: 100%;
+	}
+		
+}
+	
